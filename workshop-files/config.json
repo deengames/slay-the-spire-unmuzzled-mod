@@ -1,7 +1,6 @@
 {
-  "steamPublishedID": "2814839314",
-  "title": "Persistent Upgrades",
-  "description": "Gain +2 max health, +1 strength, and +1 metallicize for each run you played",
+  "title": "Unmuzzled",
+  "description": "Removes the Muzzled blight",
   "visibility": "public",
   "changeNote": "",
   "tags": [

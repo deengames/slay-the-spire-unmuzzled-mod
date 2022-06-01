@@ -1,8 +1,8 @@
 {
-  "modid": "persistentupgrades",
-  "name": "Persistent Upgrades",
+  "modid": "unmuzzled",
+  "name": "Unmuzzled",
   "author_list": ["NightBlade9"],
-  "description": "Gain bonus max health, strength, and metallicize for each time you die.",
+  "description": "Removes the Muzzled blight.",
   "version": "1.0.0",
   "sts_version": "07-05-2019",
   "mts_version": "2.6.0",

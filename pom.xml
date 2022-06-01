@@ -2,12 +2,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.deengames</groupId>
-    <artifactId>slaythespire.persistentupgrades</artifactId>
+    <artifactId>slaythespire.unmuzzled</artifactId>
     <version>v1.0.0</version>
     <packaging>jar</packaging>
 
-    <name>Persistent Upgrades</name>
-    <description>Persistent automatic upgrades for Slay the Spire!</description>
+    <name>Unmuzzled</name>
+    <description>Removes the Muzzled blight.</description>
 
     <dependencies>
         <dependency>
@@ -34,7 +34,7 @@
     </dependencies>
 
     <build>
-        <finalName>PersistentUpgradesMod</finalName>
+        <finalName>UnmuzzledMod</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
