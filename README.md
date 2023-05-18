@@ -6,7 +6,7 @@ Tired of getting muzzled during endless runs? Say goodbye to that pesky blight!
 
 # Installation Instructions
 
-[Download from Steam Workshop]().
+[Download from Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2814833105).
 
 # Development Setup
 
